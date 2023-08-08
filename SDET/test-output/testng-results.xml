@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T14:43:54 IST" name="Default suite" finished-at="2023-08-04T14:44:35 IST" duration-ms="40556">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T14:43:54 IST" name="Default test" finished-at="2023-08-04T14:44:35 IST" duration-ms="40556">
+      <class name="HCLTECH_Usecase1.Usecase1">
+        <test-method is-config="true" signature="launch()[pri:0, instance:HCLTECH_Usecase1.Usecase1@67f639d3]" started-at="2023-08-04T14:43:54 IST" name="launch" finished-at="2023-08-04T14:44:07 IST" duration-ms="13315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="display_menus()[pri:0, instance:HCLTECH_Usecase1.Usecase1@67f639d3]" started-at="2023-08-04T14:44:08 IST" name="display_menus" finished-at="2023-08-04T14:44:15 IST" duration-ms="7881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display_menus -->
+        <test-method signature="contactus()[pri:1, instance:HCLTECH_Usecase1.Usecase1@67f639d3]" started-at="2023-08-04T14:44:15 IST" name="contactus" finished-at="2023-08-04T14:44:35 IST" duration-ms="19219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+      </class> <!-- HCLTECH_Usecase1.Usecase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
